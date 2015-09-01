@@ -22,7 +22,7 @@ Il faudrai faire un systeme de grade <br>
 ---------- rédacteur d'article et de page 
 
 # le parcours déjà fait :) 
-
+01.09 - - Lancement de la partie autre, pour tous mes codes que j'ai et qui me sont inutile 
 18.08 - - Finition de l'admin 
 17.08 - - Ecriture de Readme.md ( ce fichier )<br>
 17.08 - - Propulsion des fichiers sur Github <br>
