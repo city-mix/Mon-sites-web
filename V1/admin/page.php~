@@ -1,0 +1,24 @@
+<!doctype html>
+<html>
+<head>
+	<meta charset="utf-8">
+	<title> Administrateurs</title>
+	<link rel="stylesheet" type="text/css" href="style.css">
+	<link rel="stylesheet" type="text/css" href="https://fonts.googleapis.com/css?family=Lato:400,700,400italic,700italic">
+</head>
+<body>
+<nav class="menu">
+	<div class="haut">
+		<a class="home" href="#">City-mix administration</a>
+		<form method="post">
+			<input type="text" name="" placeholder="Une question sur le site ? "">
+		</form>
+	</div> 
+
+	<?php include("menu.php"); ?>
+<div class="contenu">
+	<div class="titre"><a class="a-titre" href="index.html">Accueil City-Mix </a> » Pages</div>
+	
+Cette page est pareil que la page des articles sauf que les pages sont par exemple > Tarif > Condition général d'utilisation <br> 
+Et comment tous à l'heure je ne peux pas les suppprimers depuis ici il faut que je passe par la base de données </body>
+</html>

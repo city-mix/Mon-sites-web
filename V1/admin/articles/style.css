@@ -1,0 +1,94 @@
+/* menu by Enzo */
+
+body{
+	background-color: #FCFCFC;
+	font-family: 'Lato';
+	padding: 0px;
+	margin: 0px;
+}
+
+nav.menu{
+	width: 300px;
+	background-color: #343131;
+	position: fixed;
+	top: 0px;
+	left: 0px;
+	bottom: 0px;
+}
+
+nav.menu .haut{
+	height: 80px;
+	background-color: #DD4814;
+	text-align: center;
+	padding: 10px 0px 0px 0px;
+	margin: 0px 0px 10px 0px;
+}
+
+nav.menu a.home{
+	color: #fff;
+	text-align: center;
+	text-decoration: none;
+	font-size: 15px;
+	font-weight: bold;
+}
+
+nav.menu input[type="text"]{
+	font-family: 'Lato';	
+	font-size: 14px;	
+  	outline: none;
+	border: solid 1px #97310e;
+	border-radius: 50px;
+	width: 85%;
+	margin: 15px;
+	padding: 6px;
+  	box-shadow: inset 0px 1px 3px #dddddd;
+}
+
+nav.menu ul{
+	list-style-type: none;
+	padding: 0px;
+	margin: 0px;
+}
+
+nav.menu ul li{
+	display: block;
+	padding: 8px 25px 8px 25px;
+}
+
+nav.menu ul li a{
+	color: #b3b3b3;
+	text-decoration: none;
+	font-size: 14px;
+}
+
+nav.menu ul li:hover{
+	background-color: #4E4A4A;
+}
+
+nav.menu ul li:active{
+	background-color: #DD4814;
+}
+
+nav.menu ul li:active a{
+	color: #fff;
+}
+
+.contenu{
+	width: 780px;
+	position: absolute;
+	top: 35px;
+	left: 350px;
+}
+
+.contenu .titre{
+	border-bottom: solid 1px #e1e4e5;
+	padding: 10px 0px 18px 0px;
+	color: rgba(0, 0, 0, 0.6);
+	font-size: 15px;
+}
+
+.contenu .titre a.a-titre{
+	color: #dd4814;
+	text-decoration: none;
+	font-weight: bold;
+}
